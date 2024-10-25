@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Antoine Cunin!
 
-Welcome to my GitHub profile! I'm a passionate student in computer science at IUT Robert Schuman in Illkirch, currently doing a work-study program as a developer at CNRS at the School and Observatory of Earth Sciences (EOST). I have a strong focus on software development, and I'm always looking for new challenges to hone my skills.
+Welcome to my GitHub profile! I'm a passionate student in computer science at IUT Robert Schuman in Illkirch, currently looking for a work-study position as a developer. I have a strong focus on software development, and I'm always looking for new challenges to hone my skills.
 
 ## 👨‍💻 About Me
 
