@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate student in computer science at IU
 
 ## 👨‍💻 About Me
 
-- 🎓 **Status**: Student in BUT Informatique at IUT Robert Schuman in Illkirch (France), and developer in alternation at CNRS (EOST).
+- 🎓 **Status**: Student in BUT Informatique at IUT Robert Schuman in Illkirch (France).
 - 🔭 **Current Projects**:
   - Developing a **graphical descriptive language for redstone circuits** in Java.
   - Building a **website for my IUT’s open days** with a full-stack JavaScript approach: React for the frontend, Express/Prisma/Node.js for the backend, and Docker to manage it all.
